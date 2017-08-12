@@ -18,6 +18,9 @@
         "classmap": [
             "database"
         ],
+
+        "files": ["tests/utilities/function.php"],
+
         "psr-4": {
             "App\\": "app/"
         }
